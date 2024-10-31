@@ -1,5 +1,5 @@
 //Morales Alfonsina COM 3 
-//
+//https://youtu.be/C1KB4JyFDyc
 let estado;
 let textos = [];
 let imag = [];
